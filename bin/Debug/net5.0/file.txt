@@ -1,0 +1,26 @@
+2021-10-13 16:36:29.1032|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-10-13 16:36:29.1294|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-10-13 16:36:29.1294|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-13 16:36:29.1294|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-13 16:36:29.1294|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Demos\api
+2021-10-13 16:36:33.2745|FATAL|api.Controllers.CastController|Un error ocurrio al buscar el cast con id 4
+2021-10-13 17:08:26.1448|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-10-13 17:08:26.1702|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-10-13 17:08:26.1722|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-13 17:08:26.1722|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-13 17:08:26.1722|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Demos\api
+2021-10-13 17:50:15.6671|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-10-13 17:50:15.6917|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-10-13 17:50:15.6917|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-13 17:50:15.6917|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-13 17:50:15.6917|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Demos\api
+2021-10-13 17:55:19.2873|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-10-13 17:55:19.3148|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-10-13 17:55:19.3148|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-13 17:55:19.3148|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-13 17:55:19.3148|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Demos\api
+2021-10-13 22:43:29.4825|INFO|Microsoft.Hosting.Lifetime|Now listening on: https://localhost:5001
+2021-10-13 22:43:29.5135|INFO|Microsoft.Hosting.Lifetime|Now listening on: http://localhost:5000
+2021-10-13 22:43:29.5159|INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down.
+2021-10-13 22:43:29.5159|INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development
+2021-10-13 22:43:29.5159|INFO|Microsoft.Hosting.Lifetime|Content root path: C:\demos\api
